@@ -1,0 +1,7 @@
+name: WordleMC
+version: 0.0.1
+authors: [ Caramel ]
+main: dev.caramel.wordlemc.WordleMC
+api-version: 1.18
+description: Bring the popular game Wordle into your Minecraft server!
+website: caramel.dev/wordlemc
